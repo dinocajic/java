@@ -36,6 +36,8 @@ import java.util.Scanner;
  * the list of words that have been provided through the input text
  * file, but whose anagrams of each word appear on the same line and
  * whose non-anagram words appear on new lines.
+ *
+ * Use test.txt for testing
  */
 public class anagram {
 
