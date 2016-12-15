@@ -7,9 +7,6 @@ import java.util.Stack;
 
 /**
  * Author: Dino Cajic
- * Class: CSC3410
- * Time: Monday/Wednesday 1:50pm to 4:20pm
- * Lab: Friday @ 1:00pm to 2:30pm
  *
  * Tested with: jdk1.8.0_45 | jre1.8.0_66
  *
