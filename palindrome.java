@@ -22,6 +22,8 @@ import java.util.Stack;
  * into a stack. It pops each character from the queue and the stack and compares them for equality. If the characters
  * are equal, it continues to compare them until both containers are empty. At the end, the word is returned with the
  * message that the word is a palindrome.
+ *
+ * You can use the test.txt file to check for Palindromes
  */
 public class palindrome {
 
