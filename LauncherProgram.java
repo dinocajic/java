@@ -37,7 +37,7 @@ import java.util.concurrent.TimeUnit;
  *       to the /out/artifacts/launch-program.jar/launch-program
  *   13. Click on the launch-program (if that's what you named it)
  */
-public class Main {
+public class LauncherProgram {
 
     // The program that opens the file in the file location
     public String   _executable    = "notepad.exe";
