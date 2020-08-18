@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 /**
- * Author: Dino Cajicc
+ * Author: Dino Cajic
  *
  * Purpose: To store and retrieve phone record entries.
  *
